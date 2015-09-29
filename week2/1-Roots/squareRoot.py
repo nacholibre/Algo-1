@@ -1,5 +1,6 @@
 import random
 import math
+import roots
 
 
 def linearSearch(wholeList, needle):
@@ -139,6 +140,8 @@ def squareRootBinarySearch(number):
 
 
 if __name__ == '__main__':
-    print squareRootBinarySearch(6000)
+    roots = roots.Roots()
+    print roots.square_root(247359)
+    # print squareRootBinarySearch(6000)
 
-    print 'tests passed yay!'
+    # print 'tests passed yay!'

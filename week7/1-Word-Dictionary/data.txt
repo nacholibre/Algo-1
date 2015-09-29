@@ -1,0 +1,10 @@
+10
+insert alabala
+insert asdf
+contains alabala
+insert aladin
+contains asdf
+contains aladin
+insert circle
+contains square
+contains rectangle
